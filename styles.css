@@ -128,7 +128,7 @@ body {
       object-fit: cover;
       border: 3px solid;
       border-color: var(--text-decoration-color);
-      justify-content: center;
+      text-align: center;
   }
   .intro {
     display: flex;
